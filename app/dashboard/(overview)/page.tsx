@@ -5,7 +5,6 @@ import { lusitana } from "@/app/ui/fonts";
 import { fetchCardData } from "@/app/lib/data";
 import { Suspense } from "react";
 import {
-  CardSkeleton,
   CardsSkeleton,
   LatestInvoicesSkeleton,
   RevenueChartSkeleton,
